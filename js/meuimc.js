@@ -33,7 +33,7 @@ function countBmi(){
      }else if(25<=bmi&&bmi<=29.9){
     result = 'Acima do peso';
      }else if(30<=bmi&&bmi<=34.9){
-    result = 'Obese';
+    result = 'Obeso';
      }else if(35<=bmi){
     result = 'Obeso(a)';
      }
